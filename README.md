@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miguel Ángel García López</h1>
 <h3 align="center">An aspiring programmer currently honing my skills in software development. I am focused on learning languages such as HTML and CSS, with a keen interest in problem-solving and building innovative projects. I am eager to collaborate with others and contribute to open-source initiatives while expanding my knowledge within the programming community.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mangel111111111" alt="mangel111111111" /></a> </p>
-
 - 🌱 I’m currently learning **HTML and CSS**
 
 - 📫 How to reach me **miguelg.lopez@outlook.com**
